@@ -5,6 +5,12 @@
 # prepare
 > redis模拟一些键值数据（目前本地是创建了密码）
 
+# view  
+ > redis
+ ![image](https://github.com/qianduanwuzi/img/blob/master/static/redis.png)
+ > front-view
+ ![image](https://github.com/qianduanwuzi/img/blob/master/static/front-view.png)
+
 ## Build Setup
 
 ``` bash
