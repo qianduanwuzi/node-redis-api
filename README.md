@@ -1,6 +1,9 @@
 # front-node-api
 
-> A Vue.js project
+> 基于vue-cli,扩展了express连接redis模拟api给前端
+
+# prepare
+> redis模拟一些键值数据（目前本地是创建了密码）
 
 ## Build Setup
 
