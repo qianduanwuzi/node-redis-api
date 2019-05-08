@@ -1,9 +1,11 @@
 # front-node-api
 
-> 基于vue-cli,扩展了express连接redis模拟api给前端
+> 基于vue-cli,扩展了express连接redis模拟api
 
 # prepare
 > redis模拟一些键值数据（目前本地是创建了密码）
+> redis github文档:https://github.com/NodeRedis/node_redis
+
 
 # view  
  > redis
