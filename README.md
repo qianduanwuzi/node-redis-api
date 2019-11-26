@@ -1,11 +1,11 @@
 # front-node-api
 
-> 基于vue-cli,扩展了express连接redis模拟api
+> 基于vue-cli,扩展了express连接redis/mysql应用orm sequelize模拟api
 
 # prepare
-> redis模拟一些键值数据（目前本地是创建了密码）
+> redis模拟一些键值数据（目前本地是创建了密码），但由于适用于缓存，故无多做延伸
 > redis github文档:https://github.com/NodeRedis/node_redis
-
+> 创建本地mysql服务
 
 # view  
  > redis
